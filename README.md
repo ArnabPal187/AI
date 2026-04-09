@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/github/license/ArnabPal187/AI?style=for-the-badge" />
 </p>
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArnabPal187&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 <p align="center">
