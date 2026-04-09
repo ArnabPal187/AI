@@ -20,7 +20,10 @@
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArnabPal187&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArnabPal187&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArnabPal187&layout=compact&theme=tokyonight" />
+</p>
 ## 📌 Overview
 This repository is a **complete hands-on journey into Generative AI**, covering everything from fundamentals to advanced implementation using:
 
