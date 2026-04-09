@@ -61,6 +61,7 @@ This repository is a **complete hands-on journey into Generative AI**, covering 
 ---
 
 ## 📂 Project Structure
+---
 AI/
 │── notebooks/        # Jupyter notebooks
 │── projects/         # End-to-end applications
