@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/license/ArnabPal187/AI?style=for-the-badge" />
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnabPal187&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github-readme-stats.vercel.app/api?username=ArnabPal187&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabPal187&layout=compact&theme=tokyonight)
 
 ---
 
